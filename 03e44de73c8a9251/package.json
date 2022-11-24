@@ -1,0 +1,14 @@
+{
+  "name": "03e44de73c8a9251",
+  "main": "03e44de73c8a9251@952.js",
+  "version": "952.0.0",
+  "homepage": "https://observablehq.com/d/03e44de73c8a9251",
+  "author": {
+    "name": "noir",
+    "url": "https://observablehq.com/@dividead"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
